@@ -1,0 +1,33 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node modules
+node_modules/
+
+# Claude
+.claude/
+
+# Large files
+*.mp4
+*.zip
+*.tar.gz
