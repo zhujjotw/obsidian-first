@@ -1,5 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "claudian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api"
 ]
